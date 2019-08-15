@@ -1,4 +1,4 @@
-# DCGAN in TensorFlow
+# DCGAN in TensorFlow/TensorLayer
 
 
 This is the TensorLayer implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434).
